@@ -3,7 +3,7 @@
 
 - project:
   title: Building Area Finder
-  link: "#github.com/nobodyme/building-area-finder"
+  link: "https://github.com/nobodyme/building-area-finder"
   tagline: "Built an android app that helps an user find an area of a building or a landscape by placing markers on 
 the map that’s incorporated into the app. The markers uses the latitude and longitude coordinates to 
 calculate the area of the surface. It uses google-maps-api, google-places-api and SphericalUtil library."

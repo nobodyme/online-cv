@@ -1,24 +1,24 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: ""
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Building Area Finder
+  link: "#github.com/nobodyme/building-area-finder"
+  tagline: "Built an android app that helps an user find an area of a building or a landscape by placing markers on 
+the map that’s incorporated into the app. The markers uses the latitude and longitude coordinates to 
+calculate the area of the surface. It uses google-maps-api, google-places-api and SphericalUtil library."
 - project:
-  title: DevStudio
+  title: Bash Dictionary
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Developed a bash script that incorporates a dictionary right into your terminal, it provides meaning 
+along with examples if available, it uses the pearson-api."
 - project:
-  title: Tempo
+  title: Photo Search
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "Designed an android application to search for images over the internet using the 
+google-custom-search-api. It uses volley and glide libraries for networking and caching."
 - project:
-  title: Atom
+  title: Reddit comment Fetch
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Designed a python program to fetch top levels comments from the supplied reddit post for filtering 
+information."

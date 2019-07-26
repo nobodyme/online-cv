@@ -1,0 +1,19 @@
+{% if site.data.references %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-envelope"></i>References</h2>
+
+  {% for contact in site.data.references %}
+    
+    <div class="meta">
+      <div class="upper-row-custom">
+        <h3 class="contact-name">{{ contact.name }}</h3>
+      </div><!--//upper-row-->
+      <div class="contact-mailid"><a href="mailto: {{ contact.mailid }}"> {{ contact.mailid }}</a></div>
+     <!--  <div class="contact-mailid">{{ contact.mailid }} </div> -->
+      <div class="contact-position">{{ contact.position }}</div>
+    </div><!--//meta-->
+	</br>
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

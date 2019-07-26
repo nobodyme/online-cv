@@ -1,6 +1,6 @@
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
+url: 'https://nobodyme.github.io/'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -12,18 +12,16 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Naveen Kumar
-tagline: Full Stack Developer
+tagline: Software Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: ''
+summary: 'To enhance the quality of work of human beings without degrading the environment and life of other beings and to acquire knowledge in doing such works and strive for excellence.'
 
 #sidebar links
 email: naveenkumarspa@gmail.com
 phone: 8438473753
-github: nobodyme
+github: github/nobodyme
+medium: medium/@naveenkumarspa
 #Update all the sections by editing the files inside _data folder.
-
-# Tracker
-analytics: UA-83979019-1
 
 # Build settings
 encoding: "utf-8"

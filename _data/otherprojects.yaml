@@ -1,0 +1,15 @@
+- intro:
+  description: ""
+
+- project:
+  title: Reddit Fetch
+  link: "https://github.com/nobodyme/reddit-fetch"
+  tagline: "Designed a python program to fetch various informations such as pictures or comments from reddit for different purposes"
+- project:
+  title: Dynamic Programming
+  link: "https://github.com/nobodyme/dynamic-programming"
+  tagline: "Designed a tutorial aimed to give an understanding of common dynamic programming problems."
+- project:
+  title: Conky
+  link: "https://github.com/nobodyme/conky-fsociety"
+  tagline: "Built a custom conky, a lightweight system monitoring tool for linux desktop."

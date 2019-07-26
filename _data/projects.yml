@@ -1,24 +1,27 @@
-- intro:
-  description: ""
+# intro:
+#   description: ""
 
 - project:
-  title: Building Area Finder
-  link: "https://github.com/nobodyme/building-area-finder"
-  tagline: "Built an android app that helps an user find an area of a building or a landscape by placing markers on 
-the map that’s incorporated into the app. The markers uses the latitude and longitude coordinates to 
-calculate the area of the surface. It uses google-maps-api, google-places-api and SphericalUtil library."
+  title: Quorum explorer
+  details: 
+    - points: An explorer for quorum blockchain platform built using reactjs and nodejs.
+    - points: The platform syncs the blockchain data using web3 calls and maintains the transformed data to our liking.
+    - points: Tracks overall  blocks, transactions and contracts in the blockchain.
+    - points: Users can search using block number or transaction hash or address when he prefers.
+
 - project:
-  title: Bash Dictionary
-  link: "#"
-  tagline: "Developed a bash script that incorporates a dictionary right into your terminal, it provides meaning 
-along with examples if available, it uses the pearson-api."
+  title: Decentralized Ethereum Exchange
+  details:
+  - points: A decentralized exchange based on ethereum built using solidity, nodejs.
+  - points: Admin lists the token of their liking in the platform.
+  - points: The token can then be traded inside the platform via a master smart contract residing in the blockchain.
+  - points: The projects uses ethereum events to keep track of the user transactions.
+  - points: Data from events is stored in db for quicker access and served through nodejs.
+
 - project:
-  title: Photo Search
-  link: "#"
-  tagline: "Designed an android application to search for images over the internet using the 
-google-custom-search-api. It uses volley and glide libraries for networking and caching."
-- project:
-  title: Reddit comment Fetch
-  link: "#"
-  tagline: "Designed a python program to fetch top levels comments from the supplied reddit post for filtering 
-information."
+  title: Litecoin fork Wallet
+  details:
+  - points: An ICO and wallet platform post a litecoin fork.
+  - points: A new blockchain was forked from litecoin with client’s needs and requirements.
+  - points: ICO was created for the client to sell the coin at a fixed price 
+  - points: Followed by a wallet which the users can use for transactions of the coins post ICO.
